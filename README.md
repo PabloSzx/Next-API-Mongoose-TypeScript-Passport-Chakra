@@ -1,4 +1,4 @@
-# Next-API-Mongoose-TypeScript-Passport
+# Next-API-Mongoose-TypeScript-Passport-Chakra
 
 This template features a [Next.js](https://nextjs.org/) project using:
 
@@ -7,3 +7,4 @@ This template features a [Next.js](https://nextjs.org/) project using:
 - [**TypeScript**](https://typescriptlang.org)
 - [**Passport.js**](http://www.passportjs.org/) with a basic implementation.
 - [**Express**](https://expressjs.com/)
+- [**Chakra UI**](https://chakra-ui.com/)
